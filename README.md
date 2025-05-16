@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singhdhiraj108
-- 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in App Developer
+- 🌱 I’m currently learning Flutter Development
 - 💞️ I’m looking to collaborate on Frontend  
 
 
